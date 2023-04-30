@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calc for kids ©</string>
+    <string name="errorMessage">This calculator app works only in landscape mode.</string>
+    <string name="redCommentary">Please rotate your phone to display the app.</string>
+    <string name="divide_by_zero">Invalid !</string>
+    <string name="invalid_input">Invalid !</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_0">0</string>
+    <string name="equal">=</string>
+    <string name="reset">Reset</string>
+    <string name="selected_description">Question</string>
+    <string name="add_description">Add</string>
+    <string name="sub_description">Subtract</string>
+    <string name="times_description">Multiply</string>
+    <string name="div_description">Divide</string>
+    <string name="advertisement">This is a sample ad.</string>
+
+</resources>
